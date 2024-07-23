@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(to top right, #103767, #4e94e9);
+    color: #ffffff;
+    border: 5px dashed #ffffff;
+    text-align: center;
+}
+
+header, article {
+    border: 4px dashed #ffffff;
+    width: 75%;
+    margin: 20px auto;
+}
+
+header {
+    width: 30%;
+}
+
+/* Colors Section */
+
+.colors div {
+    display:inline-block;
+    border: 2px dashed #ffffff;
+    width: 30%;
+    margin: 20px 10px;
+    padding-top: 15px;
+}
+
+h2 {
+    border-bottom: 4px dashed #ffffff;
+    padding-bottom: 12px;
+}
+
+.colors img {
+    height: 30%;
+    width: 30%;
+    border: 1px solid #ffffff;
+}
+
+.colors p {
+    font-weight: 600;
+    background-color: #ffffff50;
+    margin: 15px 75px;
+}
+
+/* Font Section */
