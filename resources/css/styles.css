@@ -43,3 +43,27 @@ h2 {
 }
 
 /* Font Section */
+.fonts div {
+    display: inline-block;
+    margin: 25px;
+}
+
+.fonts .josefin-sans {
+    font-family: "Josefin Sans", serif;
+}
+
+.fonts .nanum-gothic {
+    font-family: "Nanum Gothic", serif;
+}
+
+.fonts .playfair-display {
+    font-family: "Playfair Display", serif;
+}
+
+.fonts .bold {
+    font-weight: 700;
+}
+
+.fonts .italic {
+    font-style: italic;
+}
