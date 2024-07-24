@@ -67,3 +67,40 @@ h2 {
 .fonts .italic {
     font-style: italic;
 }
+
+/* Text Section */
+
+.text div {
+    display: inline-block;
+    width: 50%;
+    align-content: center;
+    margin: 10px auto;
+}
+
+.text ul {
+    display: inline-block;
+}
+
+.text li {
+    width: fit-content;
+    letter-spacing: 1.5px;
+}
+
+.text h1 {
+    font-family: "Josefin Sans", serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.text div h2 {
+    font-family: "Nanum Gothic", serif;
+    font-size: 25px;
+    font-weight: 700;
+    border-bottom: none;
+}
+
+.text p {
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+    font-weight: 200;
+}
